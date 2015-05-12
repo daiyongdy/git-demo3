@@ -22,5 +22,7 @@ public class GitTest3 {
 		System.out.println("fu");
 		System.out.println("fu");
 		System.out.println("master");
+		System.out.println("dev");
+		System.out.println("dev2");
 	}
 }

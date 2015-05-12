@@ -21,5 +21,6 @@ public class GitTest3 {
 		System.out.println("回退");
 		System.out.println("fu");
 		System.out.println("fu");
+		System.out.println("master");
 	}
 }

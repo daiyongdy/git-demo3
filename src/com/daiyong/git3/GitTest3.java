@@ -18,6 +18,6 @@ public class GitTest3 {
 	}
 	
 	void m1() {
-		
+		System.out.println("fu");
 	}
 }
